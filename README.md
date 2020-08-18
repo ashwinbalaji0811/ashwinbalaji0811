@@ -33,16 +33,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-[![Ashwin Balaji's github stats](https://github-readme-stats.vercel.app/api?username=ashwinbalaji0811)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="ashwinbalaji0811's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Ashwin Balaji's github stats](https://github-readme-stats.vercel.app/api?username=ashwinbalaji0811)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
