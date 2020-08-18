@@ -35,9 +35,7 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+[![Ashwin Balaji's github stats](https://github-readme-stats.vercel.app/api?username=ashwinbalaji0811)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
