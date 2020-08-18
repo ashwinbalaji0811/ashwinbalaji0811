@@ -28,6 +28,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Probability Theory 2: Hindrance to Scientific Progress?](http://feedproxy.google.com/~r/PhysxNoob/~3/qBuKZ2MGGbY/)
+- [Probability Theory 1: Magic or Ignorance of Knowledge](http://feedproxy.google.com/~r/PhysxNoob/~3/zCa7SUfsHWU/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://physxnoob.com)
