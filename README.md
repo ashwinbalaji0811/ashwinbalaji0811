@@ -19,6 +19,9 @@
 [<img align="left" alt="physxnoob.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ashwin Balaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Physx Noobie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ashwin Balaji | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Ashwin Balaji | Physics StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/stackexchange.svg" />][physstk]
+[<img align="left" alt="Physx Noob | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/rss.svg" />][myblog]
 
 <br />
 
@@ -47,5 +50,7 @@
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/physx_noobie/
 [linkedin]: https://www.linkedin.com/in/ashwin-balaji-0811
-
+[facebook]: https://www.facebook.com/ashwin.balaji.96199
+[physstk]: https://physics.stackexchange.com/users/193484/ashwin-balaji
+[myblog]: https://physxnoob.com/
 
