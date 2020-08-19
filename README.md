@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="physxnoob.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ashwin Balaji | Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ashwin Balaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Physx Noobie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Ashwin Balaji | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
@@ -46,7 +46,7 @@
 
 </details>
 
-[website]: https://physxnoob.com
+[website]: https://ashwinbalaji.physxnoob.com/
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/physx_noobie/
 [linkedin]: https://www.linkedin.com/in/ashwin-balaji-0811
