@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Renormalizability of Gauge Theories and Gravity
 - 🌱 I’m currently learning Loop Quantum Gravity
 - 👯 I’m looking to collaborate with other researchers and content creators
-- ⚡ Fun fact: I love to find connections between Eastern Theology and Western philosophy
+- ⚡ Fun fact: I love to find connections between Eastern Theology and Western Philosophy
 
 
 
