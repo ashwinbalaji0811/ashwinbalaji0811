@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Top Language Stats</summary>
   
-  [![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbalaji0811&layout=compact&hide=css,html,javascript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbalaji0811&layout=compact&hide=css,html,javascript,scss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ---
