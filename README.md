@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Ashwin Balaji - aka [Physx Noob][website] 👋
-
-![Website](https://img.shields.io/website?label=Site&logo=Site&up_message=online&url=https%3A%2F%2Fashwinbalaji.physxnoob.com)
-![Website](https://img.shields.io/website?label=Blog&logo=Blog&up_message=online&url=https%3A%2F%2Fphysxnoob.com)
-![Website](https://img.shields.io/website?label=Wiki&logo=Wiki&up_message=online&url=https%3A%2F%2Fphysxnoob.herokuapp.com%2F)
+![Website](https://img.shields.io/website?label=Blog&logo=Blog&up_message=online&url=https%3A%2F%2Fashwinbalaji.xyz)
 
 
 ## I'm a Physicist, Student, Developer, and Teacher!
